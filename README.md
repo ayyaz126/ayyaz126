@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayyaz Yousaf</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
+<img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyaz126&label=Profile%20views&color=0e75b6&style=flat" alt="ayyaz126" /> </p>
 
